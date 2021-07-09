@@ -7,6 +7,7 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/ezequielbamio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/14lvs87J9qxsXk4NalTpTEdL4V6yuiSep/view"><img src="https://img.shields.io/badge/Curriculum-4EA94B.svg?&style=for-the-badge&logo=Google-Drive&logoColor=white" alt="Curriculum"/></a>&nbsp;
 <a href="mailto:bamioezequielok@gmail.com?subject=Hola%20Ezequiel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
