@@ -32,6 +32,7 @@ void Bienvenidos(){
 ## **Tecnologías:**  
 
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=276DC3)
   ![Csharp](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp&logoColor=7A49BF)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -48,6 +49,7 @@ void Bienvenidos(){
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=7A49BF)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Tinkercad](https://img.shields.io/badge/-Tinkercad-333333?style=flat&logo=autodesk&logoColor=D12228)
   
   <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/EzequielBamio" />
