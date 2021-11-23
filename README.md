@@ -1,11 +1,11 @@
-<p>
-  <h1 align="center"><b>Hola!👋</b></h1>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+👋;Bienvenidos+a+mi+perfil!&center=true&size=30">
+  </a>
+</h1>
 
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/in/ezequielbamio/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:bamioezequielok@gmail.com?subject=Hola%20Ezequiel"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ezequielbamio/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://imgur.com/UR7WWVq.png"/></a>
 </p>
 
 <br>
@@ -25,24 +25,27 @@ void Bienvenidos(){
 
 }
 ```
-## **Tecnologías:**  
+<h2 align="center">🔥 Lenguajes & Frameworks 🔥</h2>
+<br>
+<p align="center">
+    <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SQL Server" height="25" src="images/SQL-Server-Logo.png"></code>
+  <code><img title="Arduino" height="25" src="images/arduino-logo-1.png"></code>
+</p>
 
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=276DC3)
-  ![Csharp](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp&logoColor=7A49BF)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer)
-  ![Arduino](https://img.shields.io/badge/-arduino-333333?style=flat&logo=arduino)
-  
-## **Herramientas de desarrollo**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=7A49BF)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Tinkercad](https://img.shields.io/badge/-Tinkercad-333333?style=flat&logo=autodesk&logoColor=D12228)
+<h2 align="center">⚡ Herramientas de desarrollo ⚡</h2>
+<br>
+<p align="center">
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Eclipse" height="25" src="images/eclipse-11.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>  
+</p>
+<hr>
 
 <br>
   <p align="center">
