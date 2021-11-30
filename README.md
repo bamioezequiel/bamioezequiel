@@ -1,30 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+👋;Bienvenidos+a+mi+perfil!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hello!+👋;I+am+Ezequiel!&center=true&size=30">
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ezequielbamio/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://imgur.com/UR7WWVq.png"/></a>
-</p>
-
 <br>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<h2 align="center">📲 Contact me 📲</h2>
+<br>
+<p align="center">
+    <code><a href="https://www.linkedin.com/in/ezequielbamio/"><img title="LinkedIn" height="25" src="https://imgur.com/UR7WWVq.png"></a></code>
+</p>
 
-```c
-void Bienvenidos(){
-
- char nombre[] = "Ezequiel Bamio"
- char nacionalidad[] = "Argentina"
- int edad = 20
- 
- char descripcion[] = "Estudiante de la Universidad Tecnológica Nacional (FRA)."
- char carrera[] = "Tecnicatura Universitaria en Programación."
- char estado[] = "Cursando el 2do cuatrimetres."
-
-}
-```
 <h2 align="center">🔥 Lenguajes & Frameworks 🔥</h2>
 <br>
 <p align="center">
