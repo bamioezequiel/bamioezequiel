@@ -30,7 +30,6 @@
   <code><img title="Eclipse" height="25" src="images/eclipse-11.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>  
 </p>
-<hr>
 
 <br>
   <p align="center">
