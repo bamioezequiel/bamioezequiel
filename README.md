@@ -1,9 +1,7 @@
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hello!+👋;I+am+Ezequiel!&center=true&size=30">
-  </a>
-</h1>
-
+  </a></p>
 <br>
 
 <h2 align="center">📲 Contact me 📲</h2>
