@@ -25,14 +25,17 @@
 
 </p>
 
-<h2 align="center">⚡ Herramientas de desarrollo ⚡</h2>
+<h2 align="center">⚡ Tools ⚡</h2>
 <br>
 <p align="center">
-  <code><img title="Microsoft Visual Studio" height="25" src="https://imgur.com/R7HRJz6.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://imgur.com/R7HRJz6.png" href="#C#"></code>
   <code><img title="Visual Studio Code" height="25" src="https://imgur.com/XuzJBC1.png"></code>
   <code><img title="Eclipse" height="25" src="https://imgur.com/97swPR4.png"></code>
   <code><img title="GitHub" height="25" src="https://imgur.com/1GTlFAM.png"></code>  
 </p>
+
+
+
 
 <br>
   <p align="center">
