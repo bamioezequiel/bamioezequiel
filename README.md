@@ -9,7 +9,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezequielbamio/"><img width="32px" alt="LinkedIn" title="Youtube" src="https://imgur.com/UR7WWVq.png"/></a>
+  <a href="https://www.linkedin.com/in/ezequielbamio/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/UR7WWVq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
