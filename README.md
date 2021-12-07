@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+👋+!+I+am+Ezequiel+!">
+      <img src="https://readme-typing-svg.herokuapp.com?color=%2327ADF7&center=true&vCenter=true&lines=++++Hello+%F0%9F%91%8B+!;I+am+Ezequiel+!">
   </a></p>
   
 <h2 align="center">📲 Contact me 📲</h2>
