@@ -50,6 +50,15 @@
   <br/>
 </details>
 
+<details> 
+  <summary>🚧 C</summary>
+  <br/>
+    <p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EzequielBamio&repo=C_Projecto-Sistema-Bancario&theme=react&bg_color=1F222E&title_color=555555&icon_color=F8D866&hide_border=true&show_icons=false" alt="C_Projecto-Sistema-Bancario"></a>
+</p>
+  <br/>
+</details>
+
 <!-- 📘 Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
