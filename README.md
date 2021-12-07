@@ -1,13 +1,20 @@
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center">
-  <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?color=%2327ADF7&center=true&vCenter=true&lines=++++Hello+%F0%9F%91%8B+!;I+am+Ezequiel+!">
-  </a></p>
-  
-<h2 align="center">📲 Contact me 📲</h2>
-<br>
-<p align="center">
-    <code><a href="https://www.linkedin.com/in/ezequielbamio/"><img title="LinkedIn" height="25" src="https://imgur.com/UR7WWVq.png"></a></code>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Ezequiel!&font=Fira%20Code&center=true&width=440&height=45&color=%2327ADF7&vCenter=true&size=22"></a>
 </p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezequielbamio/"><img width="32px" alt="LinkedIn" title="Youtube" src="https://imgur.com/UR7WWVq.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
+
 
 <h2 align="center">🔥 Lenguajes & Frameworks 🔥</h2>
 <br>
@@ -33,8 +40,18 @@
   <code><a href="#"><img title="GitHub" height="25" src="https://imgur.com/1GTlFAM.png"></a></code>  
 </p>
 
+##  🚧 Projects 🚧
+<details> 
+  <summary>🚧 C#</summary>
+  <br/>
+    <p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EzequielBamio&repo=utn_prog_y_lab_II-master&theme=react&bg_color=1F222E&title_color=41bb13&icon_color=F8D866&hide_border=true&show_icons=false" alt="utn_prog_y_lab_II-master"></a>
+</p>
+  <br/>
+</details>
 
-
+<!-- 📘 Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <br>
   <p align="center">
