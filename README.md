@@ -40,27 +40,6 @@
   <code><a href="#"><img title="GitHub" height="25" src="https://imgur.com/1GTlFAM.png"></a></code>  
 </p>
 
-##  🚧 Projects 🚧
-<details> 
-  <summary>🚧 C#</summary>
-  <br/>
-    <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EzequielBamio&repo=utn_prog_y_lab_II-master&theme=react&bg_color=1F222E&title_color=41bb13&icon_color=F8D866&hide_border=true&show_icons=false" alt="utn_prog_y_lab_II-master"></a>
-</p>
-  <br/>
-</details>
-
-<details> 
-  <summary>🚧 C</summary>
-  <br/>
-    <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EzequielBamio&repo=C_Projecto-Sistema-Bancario&theme=react&bg_color=1F222E&title_color=555555&icon_color=F8D866&hide_border=true&show_icons=false" alt="C_Projecto-Sistema-Bancario"></a>
-</p>
-  <br/>
-</details>
-
-<!-- 📘 Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <br>
   <p align="center">
