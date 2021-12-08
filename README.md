@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Ezequiel!&font=Fira%20Code&center=true&width=440&height=45&color=%2327ADF7&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+developer+trainee&font=Fira%20Code&center=true&width=440&height=45&color=%2327ADF7&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
