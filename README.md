@@ -23,10 +23,10 @@
   <code><a href="#"><img title="C" height="25" src="https://imgur.com/Gc4iGzF.png"></a></code>
   <code><a href="#"><img title="Angular" height="25" src="https://imgur.com/GbrC5p5.png"></a></code>
   <code><a href="#"><img title="Angular" height="25" src="https://imgur.com/mejLla3.png"></a></code>
-  <code><a href="#"><img title="SQL Server" height="25" src="https://imgur.com/LCYob0f.png"></a></code>
   <code><a href="#"><img title="Javascript" height="25" src="https://imgur.com/bQwgZud.png"></a></code>
   <code><a href="#"><img title="HTML5" height="25" src="https://imgur.com/msBGa9Y.png"></a></code>
   <code><a href="#"><img title="CSS" height="25" src="https://imgur.com/YQawCQQ.png"></a></code>
+  <code><a href="#"><img title="SQL Server" height="25" src="https://imgur.com/LCYob0f.png"></a></code>
   <code><a href="#"><img title="Arduino" height="25" src="https://imgur.com/6x9jd3m.png"></a></code>
 
 </p>
