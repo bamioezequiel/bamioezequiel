@@ -24,10 +24,10 @@
   
 #### 📌 Popular Projects
 <a href="https://github.com/MrBlueBird2/mrbluebird2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=EzequielBamio&repo=EzequielBamio&theme=algolia&icon_color=7eace9" />
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=EzequielBamio&repo=EzequielBamio&theme=algolia&icon_color=7eace9" />
 </a>    
 <a href="https://github.com/mrbluebird2/portfolio-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=EzequielBamio&repo=EzequielBamio&theme=algolia&icon_color=7eace9" />
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=EzequielBamio&repo=EzequielBamio&theme=algolia&icon_color=7eace9" />
 </a>
   
 ## 🔥 Languages and tools 🔥:
