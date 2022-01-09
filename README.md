@@ -1,8 +1,7 @@
 ### Hello, I'm Ezequiel <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-<!--IMG
-<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
-<img align="right" height="220" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>-->
+<!--IMG-->
+<img align="right" height="220" width="300" src="https://media.giphy.com/media/V47JMIkNjdU94n9Mjk/giphy.gif" /> </a>
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 ✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA 
