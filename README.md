@@ -1,22 +1,20 @@
 ### Hello, I'm Ezequiel <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
-<!--IMG-->
 <img align="right" height="220" width="300" src="https://media.giphy.com/media/V47JMIkNjdU94n9Mjk/giphy.gif" /> </a>
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
+<h3>🙋‍♂️ About me</h3>
 ✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA 
 
 (University Technician in programming) and as a self-taught taking online courses.
 
 
-
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
+<h3>📫 Connect with me</h3>
  
- <a href="https://www.linkedin.com/in/ezequielbamio/" title="LinkedIn">
-    <img align="center" alt="LinkedIn" width="35px" src="https://imgur.com/2RQO1BD.png">
+<a href="https://www.linkedin.com/in/ezequielbamio" title="LinkedIn">
+    <img alt="LinkedIn" width="35px" src="https://imgur.com/HHzNjBe.png">
 </a>
 <a href="https://www.hackerrank.com/ezequielbamiok" title="HackerRank">
-    <img align="center" alt="HackerRank" width="35px" src="https://imgur.com/TzEedbW.png">
+    <img alt="HackerRank" width="35px" src="https://imgur.com/TzEedbW.png">
 </a>
   
 <hr>
