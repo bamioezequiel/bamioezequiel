@@ -23,10 +23,10 @@
 <hr>
   
 #### 📌 Popular Projects
-<a href="https://github.com/MrBlueBird2/mrbluebird2">
+<a href="https://github.com/EzequielBamio/utn_prog_y_lab_II-master">
   <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=EzequielBamio&repo=utn_prog_y_lab_II-master&theme=algolia&icon_color=7eace9" />
 </a>    
-<a href="https://github.com/mrbluebird2/portfolio-react">
+<a href="https://github.com/EzequielBamio/angular_course">
   <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=EzequielBamio&repo=angular_course&theme=algolia&icon_color=7eace9" />
 </a>
   
