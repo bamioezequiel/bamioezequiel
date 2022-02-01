@@ -31,19 +31,22 @@
 ## 🔥 Languages and tools 🔥:
 
   <code><a href="#"><img title="C#" height="30" src="https://imgur.com/A8vhezE.png"></a></code>
+  <code><a href="#"><img title="SQLServer" height="30" src="https://imgur.com/twdCivJ.png"></a></code>
+  <code><a href="#"><img title="VisualStudio" height="30" src="https://imgur.com/kwJKckj.png"></a></code>
+
   <code><a href="#"><img title="C" height="30" src="https://imgur.com/o9rMryN.png"></a></code>
+  
   <code><a href="#"><img title="Typescript" height="30" src="https://imgur.com/3qHFY5I.png"></a></code>
   <code><a href="#"><img title="Angular" height="30" src="https://imgur.com/m7AhBRv.png"></a></code>
+  <code><a href="#"><img title="Firebase" height="30" src="https://imgur.com/dANYLOw.png"></a></code>
+
   <code><a href="#"><img title="Javascript" height="30" src="https://imgur.com/iEV2Tm6.png"></a></code>
   <code><a href="#"><img title="CSS" height="30" src="https://imgur.com/RLbtzaS.png"></a></code>
   <code><a href="#"><img title="HTML" height="30" src="https://imgur.com/6ikndky.png"></a></code>
-  <code><a href="#"><img title="SQLServer" height="30" src="https://imgur.com/twdCivJ.png"></a></code>
-  <code><a href="#"><img title="Firebase" height="30" src="https://imgur.com/dANYLOw.png"></a></code>
-  
-  <code><a href="#"><img title="VisualStudio" height="30" src="https://imgur.com/kwJKckj.png"></a></code>
   <code><a href="#"><img title="VisualStudioCode" height="30" src="https://imgur.com/tCzXZgT.png"></a></code>
-  <code><a href="#"><img title="Github" height="30" src="https://imgur.com/xPFY9Me.png"></a></code>
-  <code><a href="#"><img title="Windows" height="30" src="https://imgur.com/5SCYKIB.png"></a></code>
+
+ <code><a href="#"><img title="Windows" height="30" src="https://imgur.com/5SCYKIB.png"></a></code>
+ <code><a href="#"><img title="Github" height="30" src="https://imgur.com/xPFY9Me.png"></a></code>
   
 |My github statistics|My languages|Commits|
 |-|-|-|
