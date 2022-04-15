@@ -1,3 +1,5 @@
+<img align="right" src="https://imgur.com/wFwySOX.png" /> </a>
+
 ### Hello, I'm Ezequiel <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">
 
 <img align="right" height="220" width="300" src="https://media.giphy.com/media/V47JMIkNjdU94n9Mjk/giphy.gif" /> </a>
@@ -6,6 +8,7 @@
 ✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA 
 
 (University Technician in programming) and as a self-taught taking online courses.
+
 
 
 <h3>📫 Connect with me</h3>
