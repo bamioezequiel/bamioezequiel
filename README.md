@@ -4,18 +4,11 @@
 
 </div>
 <h3>🙋‍♂️ About me <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px"></h3> 
-✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA 
 
+✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA <br>
 (University Technician in programming) and as a self-taught taking online courses.
 
 <img align="right" height="220" width="300" src="https://media.giphy.com/media/V47JMIkNjdU94n9Mjk/giphy.gif" /> </a>
-
-
-<h3>📫 Connect with me</h3>
- 
-<a href="https://www.linkedin.com/in/ezequielbamio" title="LinkedIn">
-            <img alt="LinkedIn" width="40px" src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn">
-</a>
 
 <hr>
   
