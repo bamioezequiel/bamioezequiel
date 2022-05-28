@@ -8,7 +8,7 @@
 ✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA <br>
 (University Technician in programming) and as a self-taught taking online courses.
 
-<img align="right" height="220" width="300" src="https://media.giphy.com/media/V47JMIkNjdU94n9Mjk/giphy.gif" /> </a>
+<!-- <img align="right" height="220" width="300" src="https://media.giphy.com/media/V47JMIkNjdU94n9Mjk/giphy.gif" /> </a> -->
 
 <hr>
   
