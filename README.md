@@ -1,7 +1,10 @@
 <div align="center">
+<a href='https://github.com/bamioezequiel/'>
  
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=transparent&fontColor=d6ace6&height=300&section=header&text=Bamio%20Ezequiel&fontSize=90)
 
+ </a>
+ 
 </div>
 <h3>🙋‍♂️ About me <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px"></h3> 
 
