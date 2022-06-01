@@ -1,12 +1,13 @@
 <div align="center">
 <a href='https://github.com/bamioezequiel/'>
  
- ![header](https://capsule-render.vercel.app/api?type=Waving&color=transparent&fontColor=d6ace6&height=300&section=header&text=Bamio%20Ezequiel&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&color=transparent&fontColor=30BD26&height=300&section=header&text=Bamio%20Ezequiel&fontSize=90)
 
  </a>
  
 </div>
-<h3>🙋‍♂️ About me <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px"></h3> 
+<h3>🙋‍♂️ About me</h3> 
+<!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">  -->
 
 ✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA <br>
 (University Technician in programming) and as a self-taught taking online courses.
