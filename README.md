@@ -22,13 +22,13 @@
   
   <code>[![My Skills](https://skillicons.dev/icons?i=c)](https://github.com/bamioezequiel/)</code>
   
-  <code>[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,webpack,sass,bootstrap)](https://github.com/bamioezequiel/)</code>
+  <code>[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,webpack,bootstrap)](https://github.com/bamioezequiel/)</code>
   
   <code>[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://github.com/bamioezequiel/)</code>
   
   <code>[![My Skills](https://skillicons.dev/icons?i=typescript,firebase)](https://github.com/bamioezequiel/)</code>
   
-  <code>[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github)](https://github.com/bamioezequiel/)</code>
+  <code>[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,git,heroku)](https://github.com/bamioezequiel/)</code>
   
 ## 📌 My statistics 📌:
   
