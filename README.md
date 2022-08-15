@@ -8,7 +8,11 @@
 </div>
 <h3>🙋‍♂️ About me</h3>
 
---
+<p>I am a Full Stack Developer passionate about learning new technologies with self-taught methods, currently I have knowledge in React, Node.js, and SQL.
+I am looking for a project that I am passionate about and with which I can continue my constant growth</p>
+
+
+
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="40px">  -->
 
 <!--✨ I am a programming student 👨‍💻. I am currently studying at the UTN FRA <br>-->
