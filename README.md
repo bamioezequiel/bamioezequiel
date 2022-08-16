@@ -31,7 +31,7 @@ I am looking for a project that I am passionate about and with which I can conti
         <tr>
              <td align="center">
                <!-- HenryTravel -->
-                <a href="https://github.com/caidevOficial/Front_TaiWeb/">
+                <a href="https://github.com/bamioezequiel/proyecto-final-henry">
                     <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=bamioezequiel&repo=proyecto-final-henry&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="PI-Food-main" height="115em" width="400em" />
                 </a>
             </td>
@@ -56,7 +56,7 @@ I am looking for a project that I am passionate about and with which I can conti
         <tr>
              <td align="center">
                <!-- App Food -->
-               <a href="https://github.com/caidevOficial/Front_TaiWeb/">
+               <a href="https://github.com/bamioezequiel/proyecto-final-henry">
                    <img align="center" src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=bamioezequiel&repo=PI-Food-main&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="PI-Food-main" height="115em" width="400em" />
                </a>
             </td>
