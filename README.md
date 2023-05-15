@@ -8,7 +8,7 @@
 </div>
 <h3>🙋‍♂️ About me</h3>
 
-<p>I specialize in web application development using technologies such as Javascript, Typescript, NodeJS, Express, and ReactJS. Additionally, I have recently been learning Python, which allows me to have a broader perspective on development and greater problem-solving abilities. I am passionate about continuing to learn and experiment with new technologies to create innovative and scalable solutions.</p>
+<p>👨‍💻 I specialize in web application development using technologies such as Javascript, Typescript, NodeJS, Express, and ReactJS. Additionally, I have recently been learning Python 🐍, which allows me to have a broader perspective on development and greater problem-solving abilities. I am passionate about continuing to learn and experiment with new technologies to create innovative and scalable solutions. 💡.</p>
 
 
 
