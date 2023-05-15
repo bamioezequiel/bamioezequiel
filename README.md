@@ -8,8 +8,7 @@
 </div>
 <h3>🙋‍♂️ About me</h3>
 
-<p>I am a Full Stack Developer passionate about learning new technologies with self-taught methods, currently I have knowledge in React, Node.js, and SQL.
-I am looking for a project that I am passionate about and with which I can continue my constant growth</p>
+<p>I specialize in web application development using technologies such as Javascript, Typescript, NodeJS, Express, and ReactJS. Additionally, I have recently been learning Python, which allows me to have a broader perspective on development and greater problem-solving abilities. I am passionate about continuing to learn and experiment with new technologies to create innovative and scalable solutions.</p>
 
 
 
@@ -72,18 +71,17 @@ I am looking for a project that I am passionate about and with which I can conti
 </details>
   
 ## 🔥 Languages and tools 🔥:
-
+    
+  <code>[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,express)](https://github.com/bamioezequiel/)</code>
+  
+  <code>[![My Skills](https://skillicons.dev/icons?i=python,fastapi)](https://github.com/bamioezequiel/)</code>
+  
+  <code>[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://github.com/bamioezequiel/)</code>
+  
+  <code>[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css)](https://github.com/bamioezequiel/)</code>
+  
   <code>[![My Skills](https://skillicons.dev/icons?i=cs)](https://github.com/bamioezequiel/)</code>
-  
-  <code>[![My Skills](https://skillicons.dev/icons?i=c)](https://github.com/bamioezequiel/)</code>
-  
-  <code>[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,webpack,bootstrap)](https://github.com/bamioezequiel/)</code>
-  
-  <code>[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres)](https://github.com/bamioezequiel/)</code>
-  
-  <code>[![My Skills](https://skillicons.dev/icons?i=typescript,firebase)](https://github.com/bamioezequiel/)</code>
-  
-  <code>[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,git,heroku)](https://github.com/bamioezequiel/)</code>
+
   
 ## 📌 My statistics 📌:
   
