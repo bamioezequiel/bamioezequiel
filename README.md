@@ -8,7 +8,7 @@
 </div>
 <h3>🙋‍♂️ About me</h3>
 
-<p>👨‍💻 I specialize in web application development using technologies such as Javascript, Typescript, NodeJS, Express, and ReactJS. Additionally, I have recently been learning Python 🐍, which allows me to have a broader perspective on development and greater problem-solving abilities. I am passionate about continuing to learn and experiment with new technologies to create innovative and scalable solutions. 💡.</p>
+<p>👋 Hi, I'm Ezequiel, a Backend Developer passionate about building scalable and efficient applications. I have experience with Java, Spring Boot, Node.js, and databases. Always eager to learn and improve my skills in software architecture and backend development.</p>
 
 
 
@@ -71,6 +71,8 @@
 </details>
   
 ## 🔥 Languages and tools 🔥:
+
+ <code>[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://github.com/bamioezequiel/)</code>
     
   <code>[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,express)](https://github.com/bamioezequiel/)</code>
   
