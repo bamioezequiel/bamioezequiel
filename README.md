@@ -8,75 +8,48 @@
 </div>
 
 ## 🙋‍♂️ Sobre mí
+Soy **Ezequiel Bamio**, desarrollador Backend especializado en **Java y Spring Boot**, con experiencia en proyectos full stack usando **Node.js, React, PostgreSQL y MongoDB**.  
+Me apasiona la arquitectura de software, las buenas prácticas y seguir aprendiendo cada día.  
 
-¡Hola! Soy **Ezequiel Bamio**, Desarrollador Backend enfocado en construir aplicaciones eficientes, escalables y bien estructuradas.  
-Trabajo principalmente con **Java + Spring Boot**, aunque también tengo experiencia con **Node.js**, **Bases de Datos relacionales y no relacionales**, y herramientas de frontend como **React**.
+---
 
-Me apasiona la arquitectura de software, las buenas prácticas de código y seguir aprendiendo cada día para crecer como profesional.  
-Actualmente me sigo formando tanto de manera autodidacta como académica.
+## 🔥 Lenguajes y herramientas
+<code>[![My Skills](https://skillicons.dev/icons?i=java,spring)]()</code>
+<code>[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)]()</code>
+<code>[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)]()</code>
+<code>[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css)]()</code>
 
-## 🚧 Actualmente trabajando en:
+---
+
+## 🚀 Proyectos Destacados
 
 <details>
-  <summary>🏦 HomeBanking - Proyecto Java | Digitalers</summary>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/bamioezequiel/FintechSystem-Digitalers">
-          <img src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=bamioezequiel&repo=FintechSystem-Digitalers&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" height="115em" width="400em"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <p><strong>Repositorio:</strong> 👉 <a href="https://github.com/bamioezequiel/FintechSystem-Digitalers">FintechSystem-Digitalers</a></p>
-        <p>Proyecto de simulación de HomeBanking. Incluye autenticación, transferencias, gestión de usuarios y operaciones bancarias implementadas con Java orientado a objetos.</p>
-      </td>
-    </tr>
-  </table>
+  <summary>🏦 HomeBanking – Java | Digitalers</summary>
+  <p>Simulación de banca online con autenticación, transferencias y gestión de usuarios.</p>
+  <p>🔧 <b>Tecnologías:</b> Java, OOP, JDBC, SQL</p>
+  <p>📌 <a href="https://github.com/bamioezequiel/FintechSystem-Digitalers">Repositorio</a></p>
 </details>
 
 <details>
-  <summary>🛒 EasyStoreApp - E-Commerce FullStack | Talento Tech</summary>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/bamioezequiel/EasyStoreApp-TechLab">
-          <img src="https://github-readme-stats-caidevposeidon.vercel.app/api/pin/?username=bamioezequiel&repo=EasyStoreApp-TechLab&show_icons=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" height="115em" width="400em"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <p><strong>Repositorio:</strong> 👉 <a href="https://github.com/bamioezequiel/EasyStoreApp-TechLab">EasyStoreApp-TechLab</a></p>
-        <p>Aplicación E-Commerce desarrollada en Java con Spring Boot. Incluye CRUD de productos, sistema de carrito, control de stock, arquitectura MVC y persistencia en base de datos.</p>
-      </td>
-    </tr>
-  </table>
+  <summary>🛒 EasyStoreApp – E-commerce FullStack | Talento Tech</summary>
+  <p>Aplicación e-commerce con sistema de carrito, roles y control de stock.</p>
+  <p>🔧 <b>Tecnologías:</b> Java, Spring Boot, Spring Security, MySQL</p>
+  <p>📌 <a href="https://github.com/bamioezequiel/EasyStoreApp-TechLab">Repositorio</a></p>
 </details>
+
+*(Más proyectos en mi [Portfolio](https://bamio.vercel.app))*  
+
+---
 
 ## 🎓 Certificaciones
+- 🏫 **Digitalers 2025** – Java, Spring Boot, JPA, JDBC y SQL *(en curso)*  
+- 🏫 **Talento Tech - Java Backend 2025** – Proyecto integrador con Spring Boot y BD relacional  
+- 📜 **Henry Bootcamp 2022** – Full Stack Developer (+700 hs)  
+- 🎯 Cursos autodidactas: Java, APIs REST, arquitectura backend, Git, testing  
 
-- 🏫 **Digitalers 2025** – Formación intensiva en Java, Spring Boot, JPA, JDBC y SQL (en curso)  
-- 🏫 **Talento Tech - Java Backend** – Proyecto integrador con Java, Spring Boot, MVC, y base de datos relacional (en curso)  
-- 📜 **Bootcamp Henry** – Full Stack Developer (700hs de práctica intensiva: JavaScript, Node.js, React, PostgreSQL)  
-- 🎯 Cursos autodidactas en Java, APIs REST, arquitectura backend, Git, testing y más
+---
 
-  
-## 🔥 Languages and tools 🔥:
-
- <code>[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://github.com/bamioezequiel/)</code>
-    
-  <code>[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express)](https://github.com/bamioezequiel/)</code>
-    
-  <code>[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://github.com/bamioezequiel/)</code>
-  
-  <code>[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css)](https://github.com/bamioezequiel/)</code>
-
-  
-## 📌 My statistics 📌:
-  
-  
+## 📊 Estadísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bamioezequiel&show_icons=true)  
 
 <hr>
@@ -89,5 +62,11 @@ Actualmente me sigo formando tanto de manera autodidacta como académica.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EzequielBamio&theme=github_dark)
    
 </div>
+---
+
+✨ **Abierto a oportunidades como Java / Backend Developer.**  
+  
+  
+
 
 
